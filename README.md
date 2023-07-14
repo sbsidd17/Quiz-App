@@ -38,5 +38,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- The design and implementation of this Quiz App were inspired by various online resources and tutorials.
+- The design and implementation of this Quiz App were inspired by pwskills.com resources and tutorials.
 
